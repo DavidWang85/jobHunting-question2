@@ -25,7 +25,7 @@ npm run dev
 ```
 
 ## 組件結構
-App.jsx :這是應用程式的入口點，主要是渲染 Calendar 組件。
+App.jsx :這是應用程式的入口點，主要是渲染 Calendar 組件，因為沒有其他頁面就沒有特別使用router。
     Calendar.jsx : 這是核心組件，負責顯示日曆並處理日期選擇邏輯。
 
 ## 主要功能
